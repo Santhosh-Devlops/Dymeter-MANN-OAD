@@ -1,0 +1,6 @@
+{
+  "model": "DyMETER",
+  "source": "D:\\Dymeter\\METER-main",
+  "launcher": "scripts\\run_dymeter.py",
+  "notes": "Model-specific folder populated from the working researchApp runtime."
+}

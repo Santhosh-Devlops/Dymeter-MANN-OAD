@@ -1,0 +1,15 @@
+.env
+.env.*
+
+.dist/
+
+.venv/
+venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+node_modules/
+.clinerules/
+.autoclaw/
+.dist/
+dist

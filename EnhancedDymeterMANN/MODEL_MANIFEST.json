@@ -1,0 +1,6 @@
+{
+  "model": "EnhancedDymeterMANN",
+  "source": "D:\\Dymeter\\METER-main",
+  "launcher": "scripts\\run_enhanced_dymeter_mann.py",
+  "notes": "Model-specific folder populated from the working researchApp runtime."
+}
